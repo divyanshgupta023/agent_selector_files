@@ -1,0 +1,17 @@
+Question 1 - Have you ever worked on any networking related program (whether in python or any other language). Networking means working with TCP/UDP.
+Answer 1-I have read about these in my course but not specifically worked with.
+
+Question 2 - Do you have any knowledge or experience with SIP (session initiation protocol). Again this experience does not necessarily need to be in python.
+Answer 2- I have not experienced it before but willing to have one.
+
+Question 3 - Do you have knowledge of databases (either NoSQL or SQL). Which ones?
+Answer 3 - Yes, i have knowledge of databases i have worked with sqlite and also have knowledge of SQL
+
+Question 4 - Have you ever worked with an ORM like sqlalchemy/mongoengine in python.
+Answer 4 - No,but I am willing to do so.
+
+Question 5 - Have you ever worked with any microservices/web based frameworks in python (like Flask/Sanic/Django).
+Answer 5 - I have some knowledge of Django.
+
+Question 6 - Have you ever used any concurrency framework like asyncio/gevents/twisted in python? If yes, which ones.
+Answer 6 - No,but i am willing to learn one
